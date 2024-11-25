@@ -1,0 +1,270 @@
+@media screen and (max-width:1280px) {
+    nav {
+        height: 80px;
+    }
+
+    .hero {
+        width: 600px;
+    }
+
+    .box1>h1 {
+        font-size: 50px;
+        line-height: 46px;
+        margin-bottom: 10px;
+    }
+
+    .box1>p {
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 16px;
+    }
+
+    .hero .box2>h3 {
+        font-size: 16px;
+    }
+
+    .hero .box2 input {
+        height: 56px;
+        width: 300px;
+        font-size: 20px;
+    }
+
+    .e-btn {
+        height: 56px;
+        font-size: 22px;
+    }
+
+    .description h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .description p {
+        font-size: 18px;
+    }
+
+    .display img {
+        width: 500px;
+    }
+
+    .tv-div .vid1 {
+        max-width: 385px;
+        top: 95px;
+        left: 95px;
+    }
+
+    .tv-div .vid2 {
+        max-width: 335px;
+        top: 60px;
+        left: 110px;
+    }
+
+    .faq-sec h2 {
+        font-size: 35px;
+    }
+
+    .reg-bottom input {
+        width: 400px;
+    }
+
+    .footer div {
+        max-width: 900px;
+    }
+}
+
+@media screen and (max-width:980px) {
+    .sec {
+        flex-wrap: wrap;
+    }
+
+    .faq {
+        font-size: 20px;
+        padding: 10px;
+    }
+
+    .footer div {
+        max-width: 600px;
+    }
+
+    li {
+        min-width: 200px;
+    }
+
+    .reg-bottom input {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:660px) {
+    .btn {
+        font-size: 12px;
+        line-height: 18px;
+        margin: 0px 2px;
+        padding: 3px 7px;
+    }
+
+    svg,
+    i {
+        padding: 0px 3px;
+        height: 12px;
+    }
+
+    .main,
+    .dark-box {
+        height: 550px;
+    }
+
+    nav {
+        height: 60px;
+    }
+
+    nav img {
+        width: 120px;
+    }
+
+    .hero {
+        max-width: 300px;
+    }
+
+    .box1>h1 {
+        font-size: 40px;
+        line-height: 36px;
+        margin-bottom: 10px;
+    }
+
+    .box1>p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .hero .box2>h3 {
+        font-size: 12px;
+    }
+
+    .hero .box2 input {
+        height: 40px;
+        max-width: 250px;
+        font-size: 16px;
+    }
+
+    .box2 .e-btn {
+        height: 40px;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .description h1 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .description p {
+        font-size: 16px;
+    }
+
+    .display img {
+        width: 400px;
+    }
+
+    .tv-div .vid1 {
+        max-width: 290px;
+        top: 92px;
+        left: 83px;
+    }
+
+    .tv-div .vid2 {
+        max-width: 249px;
+        top: 55px;
+        left: 100px;
+    }
+
+    .faq-sec h2 {
+        font-size: 26px;
+    }
+
+    .faq {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    .reg-bottom h3 {
+        font-size: 12px;
+    }
+
+    .reg-bottom input {
+        height: 40px;
+        width: 250px;
+        font-size: 16px;
+    }
+
+    .footer div {
+        max-width: 400px;
+    }
+
+    li {
+        min-width: 200px;
+    }
+
+    .footer {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:460px) {
+    .btn {
+        padding: 3px 7px;
+    }
+
+    svg,
+    i {
+        padding: 0px 1px;
+    }
+
+    .main,
+    .dark-box {
+        height: 500px;
+    }
+
+    nav {
+        height: 50px;
+    }
+
+    nav img {
+        width: 100px;
+    }
+
+    .box1>h1 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+
+    .description h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .description p {
+        font-size: 12px;
+    }
+
+    .display img {
+        width: 250px;
+    }
+
+    .tv-div .vid1 {
+        max-width: 185px;
+        top: 69px;
+        left: 62px;
+    }
+
+    .tv-div .vid2 {
+        max-width: 168px;
+        top: 42px;
+        left: 69px;
+    }
+
+    .footer div {
+        max-width: 250px;
+    }
+}
